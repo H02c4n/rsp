@@ -6,7 +6,7 @@
 
 You can access this page from [here..](https://h02c4n.github.io/rsp/)
 
-## 🔗 Links
+## 🔗 Other Projects
 
 [![Task-Tracker](https://img.shields.io/badge/Task_tracker-React_Django-blue)](https://task-tracker-react-django-v2.netlify.app/)
 
